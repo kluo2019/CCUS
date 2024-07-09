@@ -1,1 +1,1 @@
-All data and models are processed in Stata16. This folder contains all the relevant do files for data processing, regressions, and figures in the manuscript. 
+All data and models are processed in Stata SE 16.0. This directory contains all the relevant Stata do-files, which correspond to the data processing steps, regression analyses, and figure creation described in our manuscript. The do-files are numbered to match the sequence of models presented in the paper.
