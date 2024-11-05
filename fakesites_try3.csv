@@ -1,0 +1,51 @@
+Controlsitenum,Controlsite,Pairccus,Latitude,Longitude,Nearestccus,Km2ccus,Similarity
+control1,ExxonMobil Beaumont Refinery,site1,30.0653,-94.07,site1,30.8,Refinery in Texas
+control2,LyondellBasell Matagorda Complex,site1,28.69,-95.9269,site14,103.4,Refinery in Texas
+control3,Tinsley Oil Field,site10,32.65,-90.25,site10,149.1,Oil field in Mississippi
+control4,Yellow Creek Oil Field,site10,31.9167,-88.9833,site31,139.2,Oil field in Mississippi
+control5,Ghent Generating Station,site11,38.7416,-85.0447,site11,114.9,Power plant in Kentucky
+control6,East Kentucky Power Co-Op Spurlock Station,site11,38.6478,-83.8194,site23,209.1,Power plant in Kentucky
+control7,Yates Oil Field,site13,30.95,-102.4167,site13,609.6,Oil field in Texas
+control8,Salt Creek Oil Field,site13,32.9333,-100.9167,site5,237.3,Oil field in Texas
+control9,Chevron Phillips Chemical Cedar Bayou Plant,site14,29.7572,-95.0213,site28,32.2,Chemical plant in Texas
+control10,Ascend Performance Materials Chocolate Bayou Plant,site14,29.2489,-95.25,site30,67.3,Chemical plant in Texas
+control11,Barry Steam Plant,site15,31.0039,-88.0106,site31,30.8,Power plant in Alabama
+control12,Greene County Electric Generating Plant,site15,32.4631,-87.9022,site31,138.4,Power plant in Alabama
+control13,Coal Creek Station,site16,47.3778,-101.1486,site16,74.7,Coal-fired power plant in North Dakota
+control14,Heskett Station,site16,46.8222,-100.8508,site16,137.2,Coal-fired power plant in North Dakota
+control15,Dallman Power Station,site17,39.7561,-89.615,site17,98.5,Power plant in Illinois
+control16,Baldwin Energy Complex,site17,38.2108,-89.8606,site22,154.7,Power plant in Illinois
+control17,Arkalon Ethanol Plant,site2,37.0672,-101.3328,site2,32.6,Ethanol plant in Kansas
+control18,Garden City Station,site2,37.95,-100.8667,site4,51.1,Power plant in Kansas
+control19,Harrison Power Station,site21,39.2583,-80.2611,site26,107,Coal-fired power plant in West Virginia
+control20,Pleasants Power Station,site21,39.3767,-81.2339,site26,134.3,Coal-fired power plant in West Virginia
+control21,Rockport Generating Station,site22,37.9211,-87.0436,site23,89,Power plant in Indiana
+control22,Warrick Generating Station,site22,38.05,-87.3167,site23,122.6,Power plant in Indiana
+control23,Paradise Fossil Plant,site23,37.2597,-86.9811,site23,105,Power plant in Kentucky
+control24,Cooper Station,site23,36.6833,-88.4833,site22,192,Power plant in Kentucky
+control25,Belle River Power Plant,site24,42.7747,-82.4953,site9,395.2,Power plant in Michigan
+control26,Monroe Power Plant,site24,41.8931,-83.3472,site9,378.8,Power plant in Michigan
+control27,John E. Amos Power Plant,site26,38.47,-81.82,site26,59.7,Coal-fired power plant in West Virginia
+control28,Morgantown Energy Facility,site26,39.5681,-79.9403,site21,110.3,Coal-fired power plant in West Virginia
+control29,James H. Miller Jr. Electric Generating Plant,site27,33.6444,-87.0583,site15,125.1,Power plant in Alabama
+control30,Gadsden Electric Generating Plant,site27,33.9967,-86.0133,site27,117.9,Power plant in Alabama
+control31,Baytown Refinery,site28,29.7592,-95.0044,site28,30.5,Refinery in Texas
+control32,Pasadena Refinery,site28,29.7106,-95.205,site28,25.5,Refinery in Texas
+control33,Total Port Arthur Refinery,site30,29.8647,-93.9744,site1,24.1,Refinery in Texas
+control34,BASF Total Petrochemicals Port Arthur,site30,29.8764,-93.9758,site1,23.8,Refinery in Texas
+control35,Choctaw Generation Facility,site31,33.37533834,-89.2166172,site15,286.1,Power plant in Mississippi
+control36,Jack Watson Electric Generating Plant,site31,30.4122,-88.4878,site15,92.2,Power plant in Mississippi
+control37,Elm Road Generating Station,site32,42.8375,-87.8267,site32,97.6,Power plant in Wisconsin
+control38,South Oak Creek Power Plant,site32,42.8442,-87.8231,site32,96.1,Power plant in Wisconsin
+control39,San Juan Generating Station,site33,36.8139,-108.4331,site33,107.6,Coal-fired power plant in New Mexico
+control40,Navajo Generating Station,site33,36.9056,-111.3897,site33,469.8,Coal-fired power plant in New Mexico
+control41,Dave Johnston Power Plant,site37,42.8347,-105.7761,site37,146.3,Coal-fired power plant in Wyoming
+control42,Naughton Power Plant,site37,41.7586,-109.5736,site37,212.8,Coal-fired power plant in Wyoming
+control43,Emporia Energy Center,site4,38.4167,-96.2,site8,170.5,Power plant in Kansas
+control44,Murray Gill Energy Center,site4,37.45,-97.3667,site8,198.1,Power plant in Kansas
+control45,Tolk Station,site5,34.1836,-102.5686,site33,440,Power plant in Texas
+control46,Plant X,site5,35.1375,-101.6681,site5,43.2,Power plant in Texas
+control47,Lawrence Energy Center,site8,39.0167,-95.2667,site17,424.9,Power plant in Kansas
+control48,Nearman Creek Power Station,site8,39.15,-94.7167,site17,440.8,Power plant in Kansas
+control49,Presque Isle Power Plant,site9,46.535,-87.385,site24,480,Power plant in Michigan
+control50,Lansing Board of Water and Light Erickson Station,site9,42.7411,-84.5533,site24,216.9,Power plant in Michigan
