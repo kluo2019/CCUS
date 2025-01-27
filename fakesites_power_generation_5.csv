@@ -1,0 +1,29 @@
+controlsitenum,Control Site Name,Latitude,Longitude,OperationalYear,State,CCUS Year,sitenum
+control1-1,Blue Grass Energy,37.91113468,-84.56108462,2002,KY,2014,site11
+control1-2,Cane Run Generating Station,38.18206397,-85.8829232,2015,KY,2014,site11
+control1-3,Paradise Combined Cycle Plant,37.26914282,-86.9956828,2017,KY,2014,site11
+control1-4,Riverside Generating,38.19090747,-82.6049269,2001,KY,2014,site11
+control1-5,Trimble County Generating Station,38.58507687,-85.41229909,2002,KY,2014,site11
+control2-1,Mobile Energy Center - Hog Bayou,30.74104184,-88.05760453,2001,AL,2016,site15
+control2-2,Tenaska Inc,32.65311152,-86.73981013,2003,AL,2016,site15
+control2-3,Alabama Power - Calhoun Generating Facility,33.58843134,-85.9730096,2003,AL,2016,site15
+control2-4,Capital Power - Decatur Energy Center,34.62828327,-87.0220372,2002,AL,2016,site15
+control2-5,"Hillabee Power Plant, Exelon Generation",33.00467956,-85.9024696,2010,AL,2016,site15
+control8,Pleasants Energy LLC,39.33321586,-81.364506,2002,WV,2009,site26
+control3-1,Channel Energy Center,29.71860972,-95.23190669,2002,TX,2018,site28
+control3-2,Ferguson Power Plant-LCRA,30.55768425,-98.37299121,2014,TX,2018,site28
+control3-3,Hal C. Weaver Power Plant (PPL),30.2870606,-97.73510418,2004,TX,2018,site28
+control3-4,Cottonwood Energy Center,30.26122841,-93.7364208,2003,TX,2018,site28
+control3-5,Colorado Bend II Energy Center,29.28515836,-96.06848013,2017,TX,2018,site28
+control4,Calpine Corporation - Freestone Energy Center,31.89414072,-96.1183987,2007,TX,2017,site30
+control5,Mobile Energy Center - Hog Bayou,30.74101418,-88.05760453,2001,AL,2012,site31
+control6-1,Sheboygan Power Plant,43.71635972,-87.70588625,2005,WI,2008,site32
+control6-2,Wisconsin Public Service - Fox Energy Center,44.32000806,-88.20977277,2005,WI,2008,site32
+control6-3,WE Energies – Port Washington Power Plant,43.38619555,-87.87081936,2005,WI,2008,site32
+control6-4,Riverside Energy,42.58384814,-89.03535917,2004,WI,2008,site32
+control6-5,West Campus Cogeneration Facility,43.07496722,-89.42508983,2005,WI,2008,site32
+control7-1,Black Hills Energy - Neil Simpson Complex,44.28402744,-105.3869868,2000,WY,2018,site37
+control7-2,Cheyenne Prairie Generation Station,41.1237784,-104.7221507,2014,WY,2018,site37
+control7-3,Sinclair Oil Refinery,41.78043688,-107.1092987,2012,WY,2018,site37
+control7-4,Shute Creek treating facility,41.88903473,-110.0949816,2005,WY,2018,site37
+control7-5,Big Sand Draw Plant,42.7613029,-108.1726382,2015,WY,2018,site37
